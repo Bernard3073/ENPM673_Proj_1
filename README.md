@@ -9,6 +9,6 @@ Remember to place tag input png file in the same directory
 `python3 Problem_2a.py`  
 Choose a input video file  
 ## Problem 2b
-`python3 Problem_2a.py`
+`python3 Problem_2a.py`  
 Choose a input video file  
 
